@@ -1,4 +1,4 @@
-package nivas;
+package nivas.arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

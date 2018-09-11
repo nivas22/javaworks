@@ -1,4 +1,7 @@
-package nivas;
+package nivas.strings;
+
+
+//ReverseTheString Using Recursive Method
 
 public class ReverseTheString {
 

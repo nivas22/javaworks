@@ -1,4 +1,4 @@
-package nivas;
+package nivas.arithmetic;
 
 import java.io.BufferedReader;
 import java.io.IOException;

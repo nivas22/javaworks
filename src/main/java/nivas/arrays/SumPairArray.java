@@ -1,4 +1,4 @@
-package nivas;
+package nivas.arrays;
 
 import java.io.BufferedReader;
 import java.io.IOException;
